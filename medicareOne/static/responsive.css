@@ -1,0 +1,208 @@
+@media (max-width:2560px) {
+    #top {
+        width: 80%;
+        height: 220px;
+        margin: 5px;
+    }
+    .call{
+        margin-top: 30px;
+    }
+    .ard {
+        margin: 0px -30px 0px 27px;
+    }
+    .LockDwn{
+        margin-top:140px;
+    }
+
+}
+@media (max-width:1024px) {
+    #top {
+        width: 80%;
+        height: 180px;
+        margin: 5px;
+    }
+    .aboutmenu{
+        float: right;
+        margin-left: -15px;
+    }
+    .ard1 {
+        margin: 0px 0px 0px -10px;
+    }
+    .corcon {
+        width: 940px;
+        margin-left: 60px;
+    }
+    .ard {
+        margin: 0px -3px 0px 0px;
+    }
+    .LockDwn{
+        margin-top:140px;
+    }
+}
+@media (max-width:768px) {
+    #top {
+        width: 80%;
+        height: 125px;
+        margin: 5px;
+    }
+    .navimg {
+        width: 70%;
+    }
+    .madi {
+        display: none;
+    }
+    .ard {
+        margin: 0px 75px 0px 40px;
+    }
+    .ard1 {
+        margin: 0px 95px 0px -39px;
+    }
+    .corcon1 {
+        width: 690px;
+    }
+    .corcon {
+        margin-left: 100px;
+        width: 600px;
+    }
+    .corbtn{
+        padding: 5px;
+        margin-bottom:15px;
+    }
+    .LockDwn{
+        margin-top:2000px;
+    }
+}
+@media (max-width:425px){
+    .getbro{
+        margin-top:-150px;
+        margin-left: 15px;
+    }
+    #top {
+        width: 80%;
+        height: 260px;
+        margin: 35px;
+    }
+    .navimg {
+        width: 70%;
+    }
+    .madi {
+        display: none;
+    }
+    .ard {
+            margin: 0px 91px 0px 0px;
+    }
+    .corcon {
+        margin-left: 95px;
+        width: 270px;
+    }
+    .ard1 {
+        margin: 0px 140px 0px -15px;
+    }
+    .corcon1 {
+        margin-left:75px;
+        width: 270px;
+    }
+    .corbtn{
+        padding: 5px;
+        margin-bottom:15px;
+    }
+    .LockDwn{
+        margin-top:100px;
+    }
+    .para
+    {
+        margin-left:10%;
+        margin-right:10%;
+    }
+    .cert
+    {
+        margin-left:7%;
+    }
+}
+@media (max-width:375px) {
+    #top {
+        width: 80%;
+        height: 180px;
+        margin: 35px;
+    }
+    .navimg {
+        width: 70%;
+    }
+    .madi {
+        display: none;
+    }
+    .corbtn{
+        padding: 5px;
+    }
+    .ard {
+        margin: 0px 135px 0px 0px;
+    }
+
+    .corcon1 {
+        margin-left: 40px;
+        width: 300px;
+    }
+    .ard1 {
+        margin: 0px 165px 0px 0px;
+    }
+    .corcon {
+        margin-left: 70px;
+        width: 270px;
+    }
+    .corbtn{
+        padding: 5px;
+        margin-bottom:15px;
+    }
+    .LockDwn{
+        margin-top:100px;
+    }
+    .para
+    {
+        margin-left:10%;
+        margin-right:10%;
+    }
+    .cert
+    {
+        margin-left:7%;
+    }
+}
+@media (max-width: 320px){
+    .ard {
+        margin: 0px 140px 0px 0px;
+    }
+    .ard1 {
+        margin: 0px 125px 0px -28px;
+    }
+    .corcon1 {
+        margin-left: 35px;
+        width: 250px;
+    }
+    .corcon {
+        margin-left: 45px;
+        width: 270px;
+    }
+    .corona9
+    {
+      padding-bottom:800px;
+    }
+    .corcon {
+        margin-left: 70px;
+        width: 270px;
+    }
+    .corbtn{
+        padding: 5px;
+        margin-bottom:15px;
+    }
+    .LockDwn{
+        margin-top:100px;
+    }
+    .para
+    {
+        margin-left:10%;
+        margin-right:10%;
+    }
+    .cert
+    {
+        margin-left:7%;
+    }
+}
